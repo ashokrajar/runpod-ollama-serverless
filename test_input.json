@@ -1,0 +1,9 @@
+{
+    "input": {
+        "method_name": "generate",
+        "payload": {
+            "model": "llama3:latest",
+            "prompt": "Is eBPF already part of Linux Kernel ?"
+        }
+    }
+}
